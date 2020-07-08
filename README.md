@@ -85,19 +85,19 @@ This dataset contains depth frames divided into 14 classes, it was obtained by t
 <div class="row">
   <div class="column" style="float: left; width:33%;  text-align:center">
       <div>
-          <img src="./img/depth/pos9.png" alt="Snow" width="100%">
+          <img src="./img/depth/hello.png" alt="Snow" width="100%">
       </div>
       <span>pos9</span>
   </div>
   <div class="column" style="float: left;width:33%;  text-align:center">
      <div>
-          <img src="./img/depth/pos12.png" alt="Snow" width="100%">
+          <img src="./img/depth/please.png" alt="Snow" width="100%">
       </div>
       <span>pos12</span>
   </div>
   <div class="column" style="float: left;width:33%;  text-align:center">
      <div>
-          <img src="./img/depth/pos2.png" alt="Snow" width="100%">
+          <img src="./img/depth/how.png" alt="Snow" width="100%">
       </div>
       <span>pos2</span>
   </div>
@@ -361,6 +361,9 @@ This basically means that:
 </ul>
 
 ## Citing
+
+
+```python
 @InProceedings{10.1007/978-3-030-46140-9_16,
 author="Vargas, Yuri Vladimir Huallpa
 and Ccasa, Naysha Naydu Diaz
@@ -373,8 +376,10 @@ booktitle="Information Management and Big Data",
 year="2020",
 publisher="Springer International Publishing",
 address="Cham",
-pages="165--172",,
+pages="165--172",
 isbn="978-3-030-46140-9"
 }
+```
+
 ##  Contact
 <b>Yuri Vladimir Huallpa Vargas</b> yurihuallpavargas@gmail.com
