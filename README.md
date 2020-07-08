@@ -83,28 +83,27 @@ This dataset contains depth frames divided into 14 classes, it was obtained by t
 </h3>
 <br>
 <div class="row">
-  <div class="column" style="float: left; width:30%;  text-align:center">
+  <div class="column" style="float: left; width:33%;  text-align:center">
       <div>
-          <img src="./img/depth/pos9.png" alt="Snow" width="33%">
+          <img src="./img/depth/pos9.png" alt="Snow" width="100%">
       </div>
       <span>pos9</span>
   </div>
-  <div class="column" style="float: left;width:30%;  text-align:center">
+  <div class="column" style="float: left;width:33%;  text-align:center">
      <div>
-          <img src="./img/depth/pos12.png" alt="Snow" width="33%">
+          <img src="./img/depth/pos12.png" alt="Snow" width="100%">
       </div>
       <span>pos12</span>
   </div>
-  <div class="column" style="float: left;width:30%;  text-align:center">
+  <div class="column" style="float: left;width:33%;  text-align:center">
      <div>
-          <img src="./img/depth/pos2.png" alt="Snow" width="33%">
+          <img src="./img/depth/pos2.png" alt="Snow" width="100%">
       </div>
       <span>pos2</span>
   </div>
 </div>
 <br>
 <a href="https://drive.google.com/open?id=1ll9QGjXHGcWHlFhK_F_1FPy6y0vy1uOc">Download depthLSP from Google drive</a>
-<br>
 
 ## SkeletonLSP
 
@@ -362,23 +361,20 @@ This basically means that:
 </ul>
 
 ## Citing
-
 @InProceedings{10.1007/978-3-030-46140-9_16,
-    author="Vargas, Yuri Vladimir Huallpa
-    and Ccasa, Naysha Naydu Diaz
-    and Rodas, Lauro Enciso",
-    editor="Lossio-Ventura, Juan Antonio
-    and Condori-Fernandez, Nelly
-    and Valverde-Rebaza, Jorge Carlos",
-    title="Peruvian Sign Language Recognition Using a Hybrid Deep Neural Network",
-    booktitle="Information Management and Big Data",
-    year="2020",
-    publisher="Springer International Publishing",
-    address="Cham",
-    pages="165--172",
-    abstract="Hearing impaired people have the ability to communicate with their hands and interpret sign language (SL), but this builds a communication gap with normal people. There are models for SL recognition that have images sequence RGB as input; however, the movements of the body in 3D space is necessary to consider due to the complexity of the gestures. We built a model for Peruvian sign language recognition (PSL) to Spanish composed by 4 phases; first, the preprocessing phase in charge to process RGB, depth and skeleton streams obtained through the Kinect sensor v.1; second, the feature extraction which learn spatial information through 3 types of convolutional neural network (CNN); third, the bidirectional long short term memory (BLSTM) with residual connections in charge to reduced and encode the information. Finally, a decoder with attention mechanism and maxout network which learn the temporal information. Our proposed model is evaluated in LSA64 and ourself-built dataset. The experimental results show significant improvement compared to other models evaluated in these dataset.",
-    isbn="978-3-030-46140-9"
+author="Vargas, Yuri Vladimir Huallpa
+and Ccasa, Naysha Naydu Diaz
+and Rodas, Lauro Enciso",
+editor="Lossio-Ventura, Juan Antonio
+and Condori-Fernandez, Nelly
+and Valverde-Rebaza, Jorge Carlos",
+title="Peruvian Sign Language Recognition Using a Hybrid Deep Neural Network",
+booktitle="Information Management and Big Data",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="165--172",,
+isbn="978-3-030-46140-9"
 }
-
 ##  Contact
 <b>Yuri Vladimir Huallpa Vargas</b> yurihuallpavargas@gmail.com
